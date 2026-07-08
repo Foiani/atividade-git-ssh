@@ -1,1 +1,2 @@
 Meu nome é Gabriel Foiani, estudante de Engenharia de Software!Aprendei a gerenciar branches com o GIT
+Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
